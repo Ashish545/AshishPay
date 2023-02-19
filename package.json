@@ -1,6 +1,6 @@
 {
-  "homepage": "https://myusername.github.io/AshishPay",
   "name": "multi-page",
+  "homepage": "https://myusername.github.io/AshishPay",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
