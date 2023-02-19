@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AshishPay/static/css/main.7d8383b6.css",
+    "main.js": "/AshishPay/static/js/main.6ac465dc.js",
+    "index.html": "/AshishPay/index.html",
+    "main.7d8383b6.css.map": "/AshishPay/static/css/main.7d8383b6.css.map",
+    "main.6ac465dc.js.map": "/AshishPay/static/js/main.6ac465dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8383b6.css",
+    "static/js/main.6ac465dc.js"
+  ]
+}
